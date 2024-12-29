@@ -1,0 +1,1 @@
+{"version":3,"file":"Genre.d.ts","sourceRoot":"","sources":["../../../src/lib/endpoints/Genre.ts"],"names":[],"mappings":"AAAA,OAAO,gBAAgB,MAAM,qBAAqB,CAAC;AAEnD,MAAM,CAAC,OAAO,OAAO,KAAK;IACxB,OAAO,CAAC,MAAM,CAAmB;gBACrB,MAAM,EAAE,gBAAgB;IAIpC,sBAAsB,IAAI,OAAO,CAAC,MAAM,EAAE,CAAC;CAO5C"}

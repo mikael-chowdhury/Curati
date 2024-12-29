@@ -1,1 +1,4 @@
-ts-node src/index.ts
+tsc
+mkdir -p ./dist/@types
+cp ./src/@types/* ./dist/@types/
+node dist/index
